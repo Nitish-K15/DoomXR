@@ -1,0 +1,15 @@
+{
+    "VideoPlayback":
+    [
+        {
+                "MeshName":"Screen",
+                "VideoPath":"assets/Atari.mp4"
+        },
+        
+        {
+            "MeshName":"RightTv_Graphic_Unlit",
+            "VideoPath":"assets/GameCube.mp4"
+        }
+    ]
+}
+
