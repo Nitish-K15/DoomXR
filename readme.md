@@ -13,5 +13,5 @@ npm run dev
 npm run build
 ```
 
-##DoomXR
+## DoomXR
 A recreation of E1M1 in WebXR using Babylonjs
